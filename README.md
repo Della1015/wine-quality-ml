@@ -15,4 +15,12 @@ Random Forest achieved the best overall performance, with accuracy of about 87% 
 - `wine_quality_analysis.ipynb` : notebook for preprocessing, training, and evaluation
 
 ## Dataset
-UCI Wine Quality Dataset
+
+This project uses the Wine Quality dataset from the UCI Machine Learning Repository.
+
+Files included:
+- winequality-red.csv
+- winequality-white.csv
+
+Source:
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
